@@ -1,16 +1,82 @@
-## Hi there 👋
+ I'm Archit Maurya  
 
-<!--
-**Architmaurya/Architmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate **Full-Stack Web Developer** and **Freelancer** from India, with expertise in building modern web applications, scalable backends, and interactive UIs.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 Currently working on: **Full-stack projects (React, Node.js, Express, MongoDB, FastAPI)**  
+- 🌱 Learning: **DevOps | Cloud (AWS, Render, Vercel, Railway) | Advanced System Design**  
+- 👯 Open to collaborate on: **Open-source projects & startups**  
+- 🤔 Seeking help with: **Scaling backend & serverless architecture**  
+- 💬 Ask me about: **Web Development, APIs, Authentication, Databases, Hosting**  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/archit-maurya-2a7350226/)  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: I love solving bugs 🐞 more than creating features!  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend  
+React.js | Tailwind CSS | HTML | CSS | JavaScript | jQuery | Bootstrap  
+
+### 🖥️ Backend  
+Node.js | Express.js | REST APIs | WebSockets  
+
+### 🗄️ Database  
+MongoDB | MySQL  
+
+### ☁️ Cloud & Deployment  
+Vercel | Render | Netlify | GitHub Pages  
+
+### ⚙️ Tools & Others  
+Git | GitHub | Postman | VS Code | Figma  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Architmaurya&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Archit's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Architmaurya&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Architmaurya&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+</p>
+
+---
+
+## 🌟 Featured Projects  
+- 🎟️ **Bus Ticket Booking Platform** – Seat selection, fare calculation, Razorpay integration.  
+- 📂 **Admin Dashboard** – Authentication, course & employee management.  
+- 🎉 **Birthday Memory Web App** – Image uploads, timelines, secret codes.  
+- 🛍️ **Billing Software** – Barcode scanning, invoice generation.  
+- 📑 **Word to PDF Converter** – FastAPI + React + Docker deployment.  
+
+---
+
+## 🏆 Achievements & Contributions  
+- ✅ Built & deployed **15+ full-stack projects**.  
+- ✅ Active contributor to **open-source repos**.  
+- ✅ Helped startups & clients build their **MVPs from scratch**.  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/archit-maurya-2a7350226/)  
+- 📧 **architmaurya7054@gmail.com**  
+
+---
+
+## 🔥 Badges & Fun Stuff  
+![Profile Views](https://komarev.com/ghpvc/?username=Architmaurya&label=Profile%20views&color=0e75b6&style=flat)  
+![Followers](https://img.shields.io/github/followers/Architmaurya?label=Followers&style=social)  
+![Stars](https://img.shields.io/github/stars/Architmaurya?affiliations=OWNER%2CCOLLABORATOR&style=social)  
+
+---
+
+
+
+⭐️ From [Archit Maurya](https://github.com/Architmaurya)  
