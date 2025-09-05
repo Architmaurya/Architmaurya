@@ -71,9 +71,15 @@ Git | GitHub | Postman | VS Code | Figma
 ---
 
 ## 🔥 Badges & Fun Stuff  
-![Profile Views](https://komarev.com/ghpvc/?username=Architmaurya&label=Profile%20views&color=0e75b6&style=flat)  
-![Followers](https://img.shields.io/github/followers/Architmaurya?label=Followers&style=social)  
-![Stars](https://img.shields.io/github/stars/Architmaurya?affiliations=OWNER%2CCOLLABORATOR&style=social)  
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Architmaurya&label=Profile%20Views&color=ff69b4&style=for-the-badge)
+
+<!-- Followers -->
+![Followers](https://img.shields.io/github/followers/Architmaurya?label=Followers&logo=github&style=for-the-badge)
+
+<!-- Stars -->
+![Stars](https://img.shields.io/github/stars/Architmaurya?affiliations=OWNER%2CCOLLABORATOR&label=Stars&logo=github&style=for-the-badge)
+
 
 ---
 
