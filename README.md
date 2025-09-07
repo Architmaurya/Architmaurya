@@ -1,6 +1,6 @@
 ## I'm Archit Maurya  
 
-🚀 A passionate **Full-Stack Web Developer** and **Freelancer** from India, with expertise in building modern web applications, scalable backends, and interactive UIs.  
+##🚀 A passionate **Full-Stack Web Developer** and **Freelancer** from India, with expertise in building modern web applications, scalable backends, and interactive UIs.  
 
 ---
 
