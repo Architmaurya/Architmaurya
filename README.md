@@ -5,8 +5,8 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on: **Full-stack projects (React, Node.js, Express, MongoDB, FastAPI)**  
-- 🌱 Learning: **DevOps | Cloud (AWS, Render, Vercel, Railway) | Advanced System Design**  
+- 🔭 Currently working on: **Full-stack projects (React,React Native  ,Node.js, Express, MongoDB, FastAPI)**  
+- 🌱 Learning:  Cloud ( Render, Vercel, ) | Advance**  
 - 👯 Open to collaborate on: **Open-source projects & startups**  
 - 🤔 Seeking help with: **Scaling backend & serverless architecture**  
 - 💬 Ask me about: **Web Development, APIs, Authentication, Databases, Hosting**  
@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend  
-React.js | Tailwind CSS | HTML | CSS | JavaScript | jQuery | Bootstrap  
+React.js | Tailwind CSS | HTML | CSS | JavaScript | jQuery | Bootstrap |React Native   
 
 ### 🖥️ Backend  
 Node.js | Express.js | REST APIs | WebSockets  
